@@ -2,6 +2,7 @@
 
 <!--
 **mujeebch/mujeebch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 I am cyber security researcher and educationist:
 
@@ -13,4 +14,3 @@ I am cyber security researcher and educationist:
 - 📫 How to reach me: mujeeb dot ahmed AT] strath dot ac dot uk
 - 😄 Pronouns: He/Him
 - ⚡ Publications: [Google Scholar](https://scholar.google.com/citations?user=l_qJD3IAAAAJ&hl=en)
--->
