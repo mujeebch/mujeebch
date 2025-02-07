@@ -11,6 +11,6 @@ I am cyber security researcher and educationist:
 - 👯 I’m looking to collaborate on IIoT Security topics
 :christmas_tree: 
 - 💬 Ask me about IIoT and CPS Security
-- 📫 How to reach me: mujeeb dot ahmed AT] strath dot ac dot uk
+- 📫 How to reach me: mujeeb dot ahmed AT] newcastle dot ac dot uk
 - 😄 Pronouns: He/Him
 - ⚡ Publications: [Google Scholar](https://scholar.google.com/citations?user=l_qJD3IAAAAJ&hl=en)
