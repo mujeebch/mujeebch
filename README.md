@@ -6,7 +6,7 @@
 
 I am cyber security researcher and educationist:
 
-- 🔭 I’m currently working as Lecturer in Cyber Security
+- 🔭 I’m currently working as Senior Lecturer in Cyber Security
 - 🌱 I’m currently working on security issues in Industrial Internet of Things (IIoT)
 - 👯 I’m looking to collaborate on IIoT Security topics
 :christmas_tree: 
